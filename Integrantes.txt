@@ -1,0 +1,18 @@
+                        PROYECTO-ALBUNES DE ARTISTAS
+
+Jorge Daniel Pacosillo Santander        Ci 7082023 
+Diego Gorostiaga Marin                  Ci 10934985
+
+Instrucciones para Clonar y Levantar el Proyecto
+Aquí tienes una guía paso a paso para clonar y levantar tu proyecto, asegurándote de que esté completamente funcional en otro equipo o entorno.
+
+1. Requisitos Previos
+Antes de clonar el proyecto, asegúrate de tener instalados los siguientes programas en tu sistema:
+
+Node.js (que incluye npm):
+node js en la vercion 22.12
+Clonnar el proyecto:
+    git clone url del repositorio
+    npm install
+    npm run dev
+npm install -g json-server

@@ -1,0 +1,45 @@
+{
+  "artistas": [
+    {
+      "id": "1",
+      "nombre": "Taylor Swift",
+      "imagen": "https://example.com/taylor.jpg",
+      "genero": "Pop"
+    },
+    {
+      "id": "7087",
+      "nombre": "Charly Put",
+      "imagen": "https://cdn-images.dzcdn.net/images/cover/948200588c813c1afd10f29b56e0ce50/0x1900-000000-80-0-0.jpg",
+      "genero": "POP"
+    },
+    {
+      "id": "d16f",
+      "nombre": "Kevyn and karla",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpi4-HXHvoEBLPka_VhGvidz48fG9bhW4YA&s",
+      "genero": "Pop"
+    }
+  ],
+  "albumes": [
+    {
+      "id": "1",
+      "titulo": "1989",
+      "imagen": "https://example.com/1989.jpg",
+      "anio": 2014,
+      "artista_id": 1
+    },
+    {
+      "id": "6981",
+      "titulo": "ULTIMO",
+      "imagen": "https://cdn-images.dzcdn.net/images/cover/948200588c813c1afd10f29b56e0ce50/0x1900-000000-80-0-0.jpg",
+      "anio": 2016,
+      "artista_id": 7087
+    },
+    {
+      "id": "459e",
+      "titulo": "Por ti",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpi4-HXHvoEBLPka_VhGvidz48fG9bhW4YA&s",
+      "anio": 2017,
+      "artista_id": "d16f"
+    }
+  ]
+}
