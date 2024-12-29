@@ -12,7 +12,7 @@ Antes de clonar el proyecto, asegúrate de tener instalados los siguientes progr
 Node.js (que incluye npm):
 node js en la vercion 22.12
 Clonnar el proyecto:
-    git clone url del repositorio
-    npm install
-    npm run dev
+    1)git clone url del repositorio
+    2)npm install
+    3)npm run dev
 npm install -g json-server
